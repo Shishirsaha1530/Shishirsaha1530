@@ -1,8 +1,8 @@
 ![Banner](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
- https://tenor.com/view/hackerman-programming-coder-coding-welcome-gif-22945378
+
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h3> Sojol, <small>here</small> </h3> 
+<h3> Shishir, <small>here</small> </h3> 
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning MERN Stack
