@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Front End Development 
-- 🎯 2021 Goals: Anything will be happens
+- 🎯 2023 Goals: I will learn Software testing and MEAN Stack
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
 
