@@ -68,6 +68,5 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishirsaha1530&show_icons=true&locale=en" alt="shishirsaha1530" /></p>
 
 
