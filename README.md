@@ -59,4 +59,4 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shishirsaha1530)  
 
-![Profile views](https://gpvc.arturio.dev/Shishirsaha1530)  
+![Profile views]![](https://komarev.com/ghpvc/?username=Shishirsaha1530)  
