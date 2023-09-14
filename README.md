@@ -53,7 +53,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shishirsaha1530&show_icons=true&count_private=true)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shishirsaha1530&theme=dracula)](https://github.com/shishirsaha1530/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shishirsaha1530&theme=github-compact)](https://github.com/shishirsaha1530/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/Shishirsaha1530)  
 
