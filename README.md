@@ -60,3 +60,28 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Shishirsaha1530)  
 
 ![Profile views](https://gpvc.arturio.dev/[Shishirsaha1530])
+
+
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirsaha1530&label=Profile%20views&color=0e75b6&style=flat" alt="shishirsaha1530" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shishirsaha1530" alt="shishirsaha1530" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishirsaha1530&show_icons=true&locale=en&layout=compact" alt="shishirsaha1530" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishirsaha1530&show_icons=true&locale=en" alt="shishirsaha1530" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishirsaha1530&" alt="shishirsaha1530" /></p>
+
