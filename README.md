@@ -12,7 +12,6 @@
 - 🎯 2023 Goals: I will learn Software testing and MEAN Stack
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
-<h2 align='center'><i>Languages and Tools</i></h2>
 
  
 ## `Connect with Me`
