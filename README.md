@@ -29,62 +29,6 @@
 <br />
 <br />
 
-<table width="100">
-<tr>
-    <td align='center' height="100" width="190">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-    </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="60">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
-    </td>
-</tr>
-</table>
- 
- 
- 
  ## `Whhat I Can` 
  
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
