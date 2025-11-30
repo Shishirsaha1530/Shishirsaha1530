@@ -7,9 +7,9 @@
 <h3> Shishir, <small>here</small> </h3> 
 
 - 🔭 I’m currently working on Front End Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning Software Automation Testing and UX Experience Engineering
 - 👯 I’m looking to collaborate on Front End Development 
-- 🎯 2023 Goals: I will learn Software testing and MEAN Stack
+- 🎯 2026 Goals: I will learn Data Sciene!
 - 💬 Ask me anything you want
 - ⚡ Fun Fact: Travelling is love ✈
 
